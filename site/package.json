@@ -36,7 +36,7 @@
     "@astrojs/prefetch": "^0.4.1",
     "@astrojs/react": "^3.0.3",
     "@astrojs/sitemap": "^3.0.1",
-    "astro": "^3.2.4",
+    "astro": "^5.18.1",
     "astro-compress": "^2.0.15",
     "eslint": "^8.18.0",
     "eslint-plugin-react": "^7.30.0",
